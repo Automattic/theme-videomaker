@@ -1,0 +1,15 @@
+@import "button-mixins";
+
+.wp-block-file .wp-block-file__button {
+
+	@include button-outline-hover-styles;
+}
+
+.wp-block-search {
+
+	&.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__button,
+	.wp-block-search__button {
+
+		@include button-outline-hover-styles;
+	}
+}
