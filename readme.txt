@@ -19,6 +19,11 @@ Videomaker is designed to work with the VideoPress plugin, although it will work
 == Changelog ==
 
 = 1.0.24 =
+* Transitioned to its own repository (since this is a premium theme and doesn't belong in the free themes repo)
+NOTE: This theme IS released on WordPress.org and IS a GPL licensed theme so the source is available.  
+To see the commit history of this theme earlier than 1.0.24 please see the following repository: https://github.com/Automattic/themes/
+
+= 1.0.24 =
 * Blockbase + children: remove __unstableLocation (#6759)
 
 = 1.0.23 =
